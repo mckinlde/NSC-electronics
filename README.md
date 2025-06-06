@@ -43,13 +43,32 @@ Imagine water sloshing back and forth in a tank: it doesn’t just flow one way,
 
 You can think of impedance as a combination of friction (resistance) and springiness (reactance). It tells you the total "difficulty" for AC to move through a circuit.
 
-Summary Table
------------------------------------------------------------------------------------
-Term	      | Opposes	| Found in	              | Depends on Frequency?	| Unit
-Resistance	| DC & AC	| Resistors, wires	      | ❌ No	                | Ohms (Ω)
-Reactance		| AC only	| Capacitors, inductors		| ✅ Yes		            | Ohms (Ω)
-Impedance	  | AC	    | All AC components	      | ✅ Yes (partially)	  | Ohms (Ω)
------------------------------------------------------------------------------------
+Term Summary:
+```JSON
+[
+  {
+    "Term": "Resistance",
+    "Opposes": "DC & AC",
+    "Found in": "Resistors, wires",
+    "Depends on Frequency?": false,
+    "Unit": "Ohms (Ω)"
+  },
+  {
+    "Term": "Reactance",
+    "Opposes": "AC only",
+    "Found in": "Capacitors, inductors",
+    "Depends on Frequency?": true,
+    "Unit": "Ohms (Ω)"
+  },
+  {
+    "Term": "Impedance",
+    "Opposes": "AC",
+    "Found in": "All AC components",
+    "Depends on Frequency?": true,
+    "Unit": "Ohms (Ω)"
+  }
+]
+```
 
 1. Kirchhoff’s Current Law (KCL)
 
