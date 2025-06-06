@@ -1,4 +1,5 @@
 # NSC-electronics
+
 1. Resistance (R)
 
     What it is: Resistance is the opposition to direct current (DC) flow in a circuit.
@@ -10,6 +11,7 @@
     Example: A simple resistor in a DC circuit. If you connect a resistor to a battery, it slows down the flow of electrons (current), turning some of the energy into heat.
 
 Think of it like friction in a water pipe: it slows the flow down.
+
 2. Reactance (X)
 
     What it is: Reactance is the opposition to alternating current (AC) caused by capacitors and inductors.
@@ -25,7 +27,8 @@ Think of it like friction in a water pipe: it slows the flow down.
     Key idea: Reactance doesn’t "resist" current in the same way as resistance—it temporarily stores energy and then gives it back.
 
 Imagine water sloshing back and forth in a tank: it doesn’t just flow one way, it reacts and pushes back depending on how fast you try to move it.
-3. Impedance (Z)
+
+3. Impedance (Z) ((Recall; R = **resist**ance, X = **react**ance
 
     What it is: Impedance is the total opposition to AC. It combines both resistance and reactance.
 
