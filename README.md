@@ -28,7 +28,7 @@ Think of it like friction in a water pipe: it slows the flow down.
 
 Imagine water sloshing back and forth in a tank: it doesn’t just flow one way, it reacts and pushes back depending on how fast you try to move it.
 
-3. Impedance (Z) ((Recall; R = **resist**ance, X = **react**ance
+3. Impedance (Z) ((Recall; R = **resist**ance, X = **react**ance))
 
     What it is: Impedance is the total opposition to AC. It combines both resistance and reactance.
 
